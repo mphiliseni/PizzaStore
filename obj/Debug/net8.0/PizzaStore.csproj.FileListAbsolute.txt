@@ -33,3 +33,4 @@
 /Users/mphilisenimhlongo/Projects/MinimalAPI/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.AssemblyReference.cache
 /Users/mphilisenimhlongo/Projects/MinimalAPI/PizzaStore/obj/Debug/net8.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 /Users/mphilisenimhlongo/Projects/MinimalAPI/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.Up2Date
+/Users/mphilisenimhlongo/Projects/MinimalAPI/PizzaStore/obj/Debug/net8.0/PizzaStore.sourcelink.json
