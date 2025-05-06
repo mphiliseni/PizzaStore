@@ -1,10 +1,5 @@
-# PizzaStore API
-
-
 
 <img width="1436" alt="Screenshot 2025-05-06 at 15 22 44" src="https://github.com/user-attachments/assets/56535713-b3e5-4cd7-8fd5-f6da0ead0651" />
-
-Here’s a formative README file for the **PizzaStore API**, tailored to provide a comprehensive overview of the project:
 
 ---
 
