@@ -1,7 +1,6 @@
 using Microsoft.OpenApi.Models;
 using PizzaStore.Db;
 
-
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
